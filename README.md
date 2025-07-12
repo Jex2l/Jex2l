@@ -1,104 +1,97 @@
-# 🚀 Hi there, I'm Jeel Patel!
-
-🎓 **MS Computer Engineering @ New York University | Innovator in AI, ML & Web Development**
-💡 **Passionate about crafting impactful data-driven solutions and engaging user experiences.**
-📍 **New York, NY**
-
----
-
-## 🛠️ My Tech Arsenal
-
-* ⚙️ **Languages:** Python | JavaScript | C++ | PHP | R
-* 📊 **Databases:** SQL | MongoDB | PostgreSQL | SQLite | Cassandra | CouchDB
-* 🌐 **Frameworks & Libraries:** React.js | Node.js | Flask | TensorFlow | Scikit-learn | Apache Spark | Bootstrap | jQuery
-* 📈 **Data Visualization & Analytics:** Tableau | Power BI | Pandas | NumPy | Matplotlib | Seaborn | Plotly
-* ☁️ **Cloud Platforms:** AWS | Azure
-
----
-
-## 🌟 Career Highlights
-
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/jeel3105/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Jex2l">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub" />
+  </a>
+  <a href="mailto:pateljeel3105@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
+  </a>
 </div>
 
 ###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jex2l.github"  />
+</div>
 
-## 🎯 Impactful Projects
+###
 
-### 📍 **NYC Crime Risk & Route Optimization App** *(Python | Flask | Streamlit | Scikit-Learn)*
+<h1 align="center">Hi there, I'm Jeel! 👋</h1>
 
-* Achieved 95% predictive accuracy on crime risk, enhancing urban safety through real-time analytics.
+###
 
-### 📄 **Document Classification & Info Extraction System** *(Python | NLP | TensorFlow | BERT)*
+<h3 align="left">🚀 About Me</h3>
 
-* Streamlined document analysis with 92% accuracy, significantly speeding up workflow efficiency.
+###
 
-### 🔍 **OCR Web Application** *(Flask | Python | OpenCV | Tesseract)*
+<p align="left">
+I'm a passionate Computer Engineering Master's student at New York University, driven by innovation and a love for building impactful tech solutions.  
 
-* Delivered seamless text extraction with 95%+ accuracy, optimizing productivity through innovative preprocessing techniques.
+- 🔭 Currently enhancing my skills in Machine Learning, Web Development, and Data Science.  
+- 📚 Actively exploring cutting-edge technologies like MLOps, NLP, and Deep Learning.  
+- 💡 Love turning complex problems into intuitive, real-world applications.  
+- ⚡ When I'm not coding, you'll find me volunteering or exploring NYC's vibrant tech community!
+</p>
 
-### 📚 **AI-Powered Faculty Feedback System** *(React.js | Node.js | NLP | Power BI)*
+###
 
-* Automated student feedback analysis, cutting review times by 50% through intuitive data visualizations.
+<h3 align="left">🛠 Languages and Tools</h3>
 
-### 🛒 **Symbi-Mart Smart Recommendation Engine** *(NCF | NLP | RoBERTa)*
+###
 
-* Enhanced personalized shopping experiences, dramatically boosting engagement and sales performance.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" height="40" alt="aws" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="40" alt="tensorflow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="apache spark" />
+</div>
 
----
+###
 
-## 📚 Publications & Research
+<h3 align="left">📊 GitHub Stats</h3>
 
-* **Quantitative Analysis of ML & DL Models for Dysrhythmia Classification**
+###
 
-  * Innovated CNN architectures achieving 97% accuracy and significantly improved diagnostic precision and recall.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jex2l&show_icons=true&theme=dark&hide_border=false&border_radius=10" height="160" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jex2l&theme=dark&hide_border=false&border_radius=10" height="160" alt="streak graph" />
+</div>
 
----
+###
 
-## 🌐 Leadership & Community
+<h3 align="left">✨ Let's connect and build something amazing together!</h3>
 
-* **NGO Sarvahitey:** Empowered underprivileged youth through technology-driven education.
-* **Tech-Fest Coordinator:** Led interactive web development challenges engaging over 100 participants.
-* **Python Workshop Leader:** Conducted immersive programming workshops for aspiring developers.
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-* 💬 [LinkedIn](https://www.linkedin.com/in/jeel3105)
-* 📧 [Email Me](mailto:pateljeel3105@gmail.com)
-
-🌟 **Excited to build, innovate, and inspire—let's shape the future together!**
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB4MTlwMTdpeDF3dzJoMjdrZ3VkM2NrcHMyM25paHV0b2Fic3hkdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100"/>
+</div>
