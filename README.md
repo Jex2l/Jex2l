@@ -140,7 +140,7 @@ I build reliable, user-centric systems at the intersection of **Machine Learning
 I love collaborating on **impactful**, **production-minded** projects. If you’re hiring or hacking:
 - 📧 **pateljeel3105@gmail.com**
 - 💼 **LinkedIn:** linkedin.com/in/jeel3105
-- 🌐 **Portfolio:** <!-- TODO: add your portfolio URL -->
+- 🌐 **Portfolio:** jeelpatel.net <!-- TODO: add your portfolio URL -->
 
 <div align="center">
   <img alt="Handshake animated" height="110"
