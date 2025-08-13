@@ -99,8 +99,6 @@ I build reliable, user-centric systems at the intersection of **Machine Learning
       <b>Smart Parking (IoT)</b><br/>
       Arduino UNO R4 WiFi + sensors → realtime web portal occupancy updates.
       <br/>
-      <a href="https://github.com/Jex2l"><i>Code</i></a> • 
-      <a href="#"><i>Demo</i></a>
       <br/><sub>Arduino · JS · Realtime</sub>
     </td>
   </tr>
