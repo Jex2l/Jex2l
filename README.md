@@ -78,18 +78,13 @@ I build reliable, user-centric systems at the intersection of **Machine Learning
     <td>
       <b>Invoice Extractor E2E</b><br/>
       Vision-Language KIE with LayoutLMv3, OCR heuristics, FastAPI backend, Next.js UI. Writes to Google Sheets/Excel.
-      <br/>
-      <a href="https://github.com/Jex2l"><i>Code</i></a> • 
-      <!-- TODO: add demo link -->
-      <a href="#"><i>Demo</i></a>
+      <br/> • 
       <br/><sub>Python · FastAPI · Next.js · Docker</sub>
     </td>
     <td>
       <b>NLP-Powered Short Video Enrichment</b><br/>
       Personalized recommendations via CountVectorizer + Cosine Similarity. Flask API + Firebase + React.
       <br/>
-      <a href="https://github.com/Jex2l"><i>Code</i></a> • 
-      <a href="#"><i>Demo</i></a>
       <br/><sub>Flask · React · Firebase</sub>
     </td>
   </tr>
@@ -98,8 +93,6 @@ I build reliable, user-centric systems at the intersection of **Machine Learning
       <b>Medical Chatbot (RAG)</b><br/>
       PDF ingest, embeddings, Pinecone index, retrieval-augmented generation for medical Q&A.
       <br/>
-      <a href="https://github.com/Jex2l"><i>Code</i></a> • 
-      <a href="#"><i>Demo</i></a>
       <br/><sub>Python · Pinecone · LLM</sub>
     </td>
     <td>
