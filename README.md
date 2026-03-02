@@ -22,10 +22,10 @@
            src="https://img.shields.io/static/v1?label=&message=Email&color=D14836&logo=gmail&logoColor=white&style=for-the-badge"/>
     </a>
     <!-- TODO: Portfolio -->
-    <!-- <a href="YOUR_PORTFOLIO_URL">
+    <a href="https://jeelpatel.net/">
       <img alt="Portfolio" height="28"
            src="https://img.shields.io/static/v1?label=&message=Portfolio&color=4F46E5&logo=vercel&logoColor=white&style=for-the-badge"/>
-    </a> -->
+    </a>
   </p>
 
   <!-- KPI quick hits -->
