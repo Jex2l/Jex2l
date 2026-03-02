@@ -146,17 +146,29 @@ When I'm not building: volunteering, exploring NYC's tech scene, and mentoring p
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jex2l&show_icons=true&hide_title=false&rank_icon=percentile&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&border_color=00E5CC&icon_color=00E5CC&title_color=00E5CC&text_color=C9D1D9&ring_color=00E5CC" alt="Jeel's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jex2l&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=00E5CC&title_color=00E5CC&text_color=C9D1D9" alt="Top Languages"/>
+<!-- Row 1: Stats + Language breakdown (github-profile-summary-cards — more reliable than readme-stats) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jex2l&theme=github_dark" height="160" alt="Stats"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jex2l&theme=github_dark" height="160" alt="Repos Per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jex2l&theme=github_dark" height="160" alt="Most Commit Language"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Jex2l&theme=tokyonight&background=0D1117&border=00E5CC&stroke=00E5CC&ring=00E5CC&fire=FF6B35&currStreakLabel=00E5CC&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+<!-- Row 2: Streak (demolab — confirmed working) -->
+<img width="68%" src="https://streak-stats.demolab.com?user=Jex2l&theme=tokyonight&background=0D1117&border=00E5CC&stroke=00E5CC&ring=00E5CC&fire=FF6B35&currStreakLabel=00E5CC&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jex2l&theme=github_dark&utcOffset=-5" height="160" alt="Productive Time"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jex2l&theme=tokyo-night&bg_color=0D1117&color=00E5CC&line=00E5CC&point=FF6B35&area=true&area_color=00E5CC&hide_border=false&border_color=00E5CC&custom_title=Jeel's%20Contribution%20Graph" alt="Activity Graph"/>
+<!-- Row 3: Full-width profile detail card -->
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jex2l&theme=github_dark" alt="Profile Details"/>
+
+<br/><br/>
+
+<!-- Row 4: Activity graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jex2l&theme=tokyo-night&bg_color=0D1117&color=00E5CC&line=00E5CC&point=FF6B35&area=true&hide_border=false&border_color=1a1a2e&custom_title=Jeel's%20Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
@@ -174,6 +186,20 @@ When I'm not building: volunteering, exploring NYC's tech scene, and mentoring p
 |:---:|:---:|:---:|
 | Reproducible training pipelines, artifact lineage, CI/CD for models | Retrieval-augmented systems, evaluation beyond BLEU/ROUGE | Performance budgets, accessible UI patterns, component architecture |
 | `MLflow` `DVC` `Airflow` | `LangChain` `Pinecone` `FAISS` | `Next.js` `Tailwind` `a11y` |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               TROPHIES                                 -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jex2l&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" width="100%"/>
 
 </div>
 
