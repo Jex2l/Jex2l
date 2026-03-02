@@ -192,20 +192,6 @@ When I'm not building: volunteering, exploring NYC's tech scene, and mentoring p
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--               TROPHIES                                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jex2l&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
 <!--                  LET'S BUILD                           -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
