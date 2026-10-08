@@ -1,220 +1,158 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   HEADER BANNER                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05080F,50:0B3D3A,100:00E5CC&height=240&section=header&text=JEEL%20PATEL&fontSize=72&fontColor=FFFFFF&fontAlignY=42&desc=Systems%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Agentic%20AI&descAlignY=64&descSize=20&animation=twinkling" width="100%" alt="Jeel Patel"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4429,100:00E5CC&height=200&section=header&text=Jeel%20Patel&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Thinker&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header"/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  TYPING HEADLINE                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=00E5CC&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Jeel+Patel;MS+Computer+Engineering+%40+NYU+Tandon;120-node+GPU+cluster+%E2%86%92+4M%2B+events%2Fday;SRE+%C2%B7+HPC+%C2%B7+Low-latency+C%2B%2B+%C2%B7+Agentic+AI;Building+agents+that+triage+incidents+at+3AM;Open+to+full-time+SWE+roles+%F0%9F%9A%80" alt="Typing"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5CC&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Hi+there%2C+I'm+Jeel+%F0%9F%91%8B;MS+Computer+Engineering+%40+NYU+%F0%9F%8E%93;Building+ML+%2B+Web+%2B+Data+systems+%F0%9F%9A%80;Turning+ambiguity+into+clean+architectures;Open+to+impactful+opportunities+%F0%9F%8C%9F" alt="Typing SVG"/>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  SOCIAL BADGES                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeel_Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeel3105/)
-[![GitHub](https://img.shields.io/badge/GitHub-Jex2l-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jex2l)
-[![Email](https://img.shields.io/badge/Email-pateljeel3105-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateljeel3105@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeel3105-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeel3105/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jeelpatel.net-00E5CC?style=for-the-badge&logo=vercel&logoColor=black)](https://jeelpatel.net)
+[![Email](https://img.shields.io/badge/Email-pateljeel3105-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateljeel3105@gmail.com)
+[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10526152)
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Jex2l&label=Profile+Views&color=00E5CC&style=flat-square)](https://github.com/Jex2l)
-![NYU](https://img.shields.io/badge/NYU-New_York-7A1A8B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTd2LTJsMTAgNSAxMC01djJMMTIgMjJ6Ii8+PC9zdmc+)
-![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-22C55E?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22C55E?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/BASE-NYC_%C2%B7_open_to_relocate-00E5CC?style=flat-square&labelColor=0D1117)
+![Visitors](https://komarev.com/ghpvc/?username=Jex2l&label=VISITORS&color=00E5CC&style=flat-square&labelColor=0D1117)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5CC,100:0D1117&height=2&section=header" width="100%" alt=""/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    DIVIDER                             -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## `> boot --profile`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00E5CC&height=2&section=header" width="100%" alt="divider"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🧠 &nbsp;About Me
-
-```yaml
-name       : Jeel Patel
-role       : ML / Web / Data Engineer
-education  : MS Computer Engineering @ NYU, New York
-philosophy : Readable code. Repeatable pipelines. Meaningful observability.
-currently  : MLOps · NLP · Deep Learning · Frontend DX
-interests  : Intelligent systems that ship to production
-location   : New York City 🌆
-status     : Open to impactful opportunities
+```ts
+const jeel = {
+  education : "MS Computer Engineering, NYU Tandon (2026)",
+  focus     : ["Distributed systems", "HPC infrastructure", "SRE / observability", "Agentic AI"],
+  experience: ["NYU HPC Research Lab (Research Lead)", "The NorthStar Group (SRE/Backend)", "5POINT Solutions (Low-latency C++)"],
+  philosophy: "Measure it. Automate it. Make it boringly reliable.",
+  shipping  : "Systems that survive contact with production",
+  status    : "Open to full-time software engineering roles",
+} as const;
 ```
 
-> *"I bias toward clean architectures and shippable features — not just prototypes."*
-
-When I'm not building: volunteering, exploring NYC's tech scene, and mentoring peers.
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  TECH STACK                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🧰 &nbsp;Tech Stack
-
 <div align="center">
 
-**Languages**
-
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-**Frameworks & Libraries**
-
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
-
-**Data & Databases**
-
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-
-**DevOps & Cloud**
-
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+| 🖥️ **120** | 📡 **4M+** | 👥 **100K+** | 📄 **1** |
+|:---:|:---:|:---:|:---:|
+| GPU nodes managed | telemetry events / day modeled | MAU platform kept reliable | IEEE publication |
 
 </div>
 
+## `> ls ./flagship-projects`
+
+### 🛰️ Incident Triage Agent &nbsp;·&nbsp; `in active development`
+> An on-call agent that reads alerts, investigates, and proposes fixes. A human approves before anything runs.
+
+```mermaid
+flowchart LR
+    A[Prometheus / Alertmanager] --> B{Triage Agent}
+    B -->|MCP tools| C[Metrics · Logs · K8s state]
+    B --> D[Root-cause hypothesis]
+    D --> E[/Human approval gate/]
+    E --> F[Remediation]
+    G[Fault-injection evals] -.scores.-> B
+```
+
+- **Human-in-the-loop by design:** no action executes without approval
+- **Evaluated, not vibes-checked:** fault-injection harness scores the agent's diagnoses
+- **Fully local and free:** Ollama + kind + open-source tooling
+- `Python` `MCP` `Prometheus` `Alertmanager` `Kubernetes` `Ollama`
+
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  PROJECTS                              -->
-<!-- ═══════════════════════════════════════════════════════ -->
+### 🧬 TR4: Generative Telemetry Pipeline &nbsp;·&nbsp; `NYU HPC Research`
+> Two-stage generative model (CVAE + GRU) that learns the behavior of HPC job telemetry at **4M+ events/day**.
 
-## 🏗️ &nbsp;Spotlight Projects
+- Trained on the **MIT Supercloud** dataset on **NYU Greene**, with infrastructure debugging along the way (NFS stalls, cuDNN faults, scaler corruption)
+- Weekly reporting cadence with advisor **Prof. Yuzhang Lin**
+- `PyTorch` `CUDA` `CVAE` `GRU` `Slurm` `Jupyter`
+
+<br/>
+
+### 🧾 Invoice Extractor E2E &nbsp;·&nbsp; `Vision-Language IE`
+> LayoutLMv3 + OCR heuristics → structured data → Google Sheets / Excel, behind a FastAPI service with a Next.js UI.
+
+- `LayoutLMv3` `FastAPI` `Next.js` `Docker` `OCR`
+
+<br/>
 
 <div align="center">
 
-| 🧾 Invoice Extractor E2E | 🤖 Medical Chatbot (RAG) |
-|:---|:---|
-| Vision-Language Key Information Extraction using **LayoutLMv3** + OCR heuristics. FastAPI backend, Next.js UI. Writes to **Google Sheets / Excel**. Built for real production document workflows. | PDF ingest pipeline → vector embeddings → **Pinecone** index → retrieval-augmented generation for medical Q&A. Grounded responses, dramatically reduced hallucinations. |
-| `Python` `FastAPI` `Next.js` `LayoutLMv3` `Docker` `OCR` | `Python` `Pinecone` `LLM` `RAG` `Embeddings` |
+| 🩺 **Medical RAG Chatbot** | 🅿️ **Smart Parking IoT** | 📹 **Short-Video Recommender** |
+|:---|:---|:---|
+| PDF ingest → embeddings → **Pinecone** → grounded medical Q&A with sharply reduced hallucination. | Arduino UNO R4 WiFi + ultrasonic sensors → live occupancy portal, **<500ms** hardware-to-browser. | CountVectorizer + cosine similarity recs on Flask + Firebase + React, deployed to real users. |
+| `RAG` `Pinecone` `LLM` | `Arduino` `WebSockets` | `Flask` `React` `NLP` |
 
-| 📹 NLP Short Video Enrichment | 🅿️ Smart Parking (IoT) |
-|:---|:---|
-| Personalized recommendations via **CountVectorizer + Cosine Similarity**. Flask API + Firebase + React frontend. Deployed to real users with measurable engagement lift. | **Arduino UNO R4 WiFi** + ultrasonic sensors → real-time web portal showing live occupancy. End-to-end hardware-to-browser data pipeline with < 500ms latency. |
-| `Flask` `React` `Firebase` `NLP` `CountVectorizer` | `Arduino` `JavaScript` `IoT` `WebSockets` `Realtime` |
+| 🎮 **VRAMWatch** | 🚕 **NYC Taxi Demand Forecast** | 🔎 **OCR Extraction Pipeline** |
+|:---|:---|:---|
+| GPU/VRAM monitoring tool with LLM-powered insights via the Anthropic SDK. | LangGraph-orchestrated forecasting pipeline over NYC taxi data. | OpenCV + Tesseract pipeline orchestrated with the OpenAI Agents SDK. |
+| `Python` `Anthropic SDK` | `LangGraph` `Forecasting` | `OpenCV` `Tesseract` |
 
 </div>
 
-> More builds → [github.com/Jex2l](https://github.com/Jex2l) — I ship, iterate, and keep dashboards honest.
+> 🔗 More on [github.com/Jex2l](https://github.com/Jex2l)
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📈 &nbsp;GitHub Metrics
+## `> cat ./stack.json`
 
 <div align="center">
 
-<!-- Row 1: Stats + Language breakdown (github-profile-summary-cards — more reliable than readme-stats) -->
+**Systems & Languages**<br/>
+[![C++](https://skillicons.dev/icons?i=cpp)](#) [![Python](https://skillicons.dev/icons?i=python)](#) [![TS](https://skillicons.dev/icons?i=ts)](#) [![Go](https://skillicons.dev/icons?i=go)](#) [![Bash](https://skillicons.dev/icons?i=bash)](#) [![Linux](https://skillicons.dev/icons?i=linux)](#)
+
+**Infra & Observability**<br/>
+[![K8s](https://skillicons.dev/icons?i=kubernetes)](#) [![Docker](https://skillicons.dev/icons?i=docker)](#) [![Prometheus](https://skillicons.dev/icons?i=prometheus)](#) [![Grafana](https://skillicons.dev/icons?i=grafana)](#) [![AWS](https://skillicons.dev/icons?i=aws)](#) [![GCP](https://skillicons.dev/icons?i=gcp)](#) [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](#)
+
+**Messaging & Data**<br/>
+[![Kafka](https://skillicons.dev/icons?i=kafka)](#) [![Postgres](https://skillicons.dev/icons?i=postgres)](#) [![Redis](https://skillicons.dev/icons?i=redis)](#) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](#) [![MySQL](https://skillicons.dev/icons?i=mysql)](#)
+
+**ML & AI**<br/>
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](#) [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](#) [![FastAPI](https://skillicons.dev/icons?i=fastapi)](#) [![React](https://skillicons.dev/icons?i=react)](#) [![Next](https://skillicons.dev/icons?i=nextjs)](#)
+
+`gRPC` · `CUDA` · `Triton` · `Slurm` · `MCP` · `LangGraph` · `Ollama` · `Pinecone`
+
+</div>
+
+## `> tail -f ./experience.log`
+
+```text
+[2025-26]  NYU HPC Research Lab       Graduate Research Lead     120-node GPU cluster · generative telemetry modeling
+[prev]     The NorthStar Group        SRE / Backend Engineer     100K+ MAU platform · Kafka · gRPC · K8s · Prometheus/Grafana
+[prev]     5POINT Solutions           Software Engineer          Low-latency C++ systems
+```
+
+## `> stats --github`
+
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jex2l&theme=github_dark" height="160" alt="Stats"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jex2l&theme=github_dark" height="160" alt="Repos Per Language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jex2l&theme=github_dark" height="160" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jex2l&theme=github_dark" height="160" alt="Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jex2l&theme=github_dark" height="160" alt="Commit languages"/>
 
-<br/><br/>
+<img width="68%" src="https://streak-stats.demolab.com?user=Jex2l&theme=tokyonight&background=0D1117&border=00E5CC&stroke=00E5CC&ring=00E5CC&fire=FF6B35&currStreakLabel=00E5CC&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak"/>
 
-<!-- Row 2: Streak (demolab — confirmed working) -->
-<img width="68%" src="https://streak-stats.demolab.com?user=Jex2l&theme=tokyonight&background=0D1117&border=00E5CC&stroke=00E5CC&ring=00E5CC&fire=FF6B35&currStreakLabel=00E5CC&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jex2l&theme=github_dark&utcOffset=-5" height="160" alt="Productive Time"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jex2l&theme=tokyo-night&bg_color=0D1117&color=00E5CC&line=00E5CC&point=FF6B35&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity"/>
 
-<br/><br/>
-
-<!-- Row 3: Full-width profile detail card -->
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jex2l&theme=github_dark" alt="Profile Details"/>
-
-<br/><br/>
-
-<!-- Row 4: Activity graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jex2l&theme=tokyo-night&bg_color=0D1117&color=00E5CC&line=00E5CC&point=FF6B35&area=true&hide_border=false&border_color=1a1a2e&custom_title=Jeel's%20Contribution%20Graph" alt="Activity Graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jex2l&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
-<br/>
+## `> currently --exploring`
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              WHAT I'M EXPLORING                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
+- 🤖 **Agentic reliability:** evals, approval gates, and safe tool use for ops agents
+- 🔭 **Observability for ML and GPU fleets:** telemetry, anomaly detection, capacity signals
+- ⚡ **Low-latency systems:** C++ performance and tail-latency work
 
-## 🗺️ &nbsp;What I'm Exploring
-
-<div align="center">
-
-| 🔁 MLOps | 💬 NLP & RAG | 🎨 Frontend DX |
-|:---:|:---:|:---:|
-| Reproducible training pipelines, artifact lineage, CI/CD for models | Retrieval-augmented systems, evaluation beyond BLEU/ROUGE | Performance budgets, accessible UI patterns, component architecture |
-| `MLflow` `DVC` `Airflow` | `LangChain` `Pinecone` `FAISS` | `Next.js` `Tailwind` `a11y` |
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  LET'S BUILD                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🤝 &nbsp;Let's Build Together
+## `> connect`
 
 <div align="center">
 
-I love collaborating on **impactful**, **production-minded** projects. If you're hiring or hacking, reach out:
+*Hiring for systems, infra, SRE, or applied AI? Let's talk.*
 
-<br/>
+[![Email](https://img.shields.io/badge/📧_pateljeel3105@gmail.com-D14836?style=for-the-badge)](mailto:pateljeel3105@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_linkedin.com/in/jeel3105-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jeel3105/)
 
-[![Email](https://img.shields.io/badge/📧_Email-pateljeel3105%40gmail.com-D14836?style=for-the-badge&logoColor=white)](mailto:pateljeel3105@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-jeel3105-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jeel3105/)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jeelpatel.net-00E5CC?style=for-the-badge&logoColor=black)](https://jeelpatel.net)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5CC,50:0B3D3A,100:05080F&height=120&section=footer&text=shipped%20with%20purpose&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Footer"/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5CC,50:0E4429,100:0D1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer"/>
-
-</div>
-
----
-
-<div align="center">
-  <sub>Built with precision · Shipped with purpose · <a href="https://github.com/Jex2l">@Jex2l</a></sub>
 </div>
