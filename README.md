@@ -72,8 +72,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jex2l&theme=github_dark" height="160" alt="Languages"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jex2l&theme=github_dark" height="160" alt="Commit languages"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jex2l&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
-
 <br/>
 
 *Hiring for systems, infra, SRE, or applied AI? Let's talk.*
